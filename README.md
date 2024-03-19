@@ -1,4 +1,4 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M2CZ9B1)
+<noscript><a href="https://liberapay.com/OakleyCord/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OakleyCord&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OakleyCord&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
